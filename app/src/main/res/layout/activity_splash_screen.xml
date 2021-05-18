@@ -6,7 +6,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Splash_Screen">
+    tools:context=".ui.Splash_Screen">
 
     <com.airbnb.lottie.LottieAnimationView
           android:layout_width="300dp"
@@ -21,7 +21,7 @@
         android:gravity="center"
         android:textStyle="bold"
         android:textSize="25sp"
-        android:textColor="@color/white"
-        android:text="Memes App"/>
+        android:textColor="#FFFFFF"
+        android:text="My Gallery App"/>
 
 </LinearLayout>
